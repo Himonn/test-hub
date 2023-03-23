@@ -1,8 +1,8 @@
 [
     {
       "internalName": "imbued-fart",
-      "hash": "4c4ca067f434b3128a39fca6df0884512eaaf676315113df8986928911885287",
-      "size": 1738988,
+      "hash": "639CBFE993500A795AFA0749A0D4B49C6AC22C9D2009FA9B7F79489ABEAD10DA",
+      "size": 1739030,
       "plugins": [
         "com.imbuedfart.ImbuedFartPlugin"
       ],
