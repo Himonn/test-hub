@@ -1,0 +1,13 @@
+[
+    {
+      "internalName": "imbued-fart",
+      "hash": "4C4CA067F434B3128A39FCA6DF0884512EAAF676315113DF8986928911885287",
+      "size": 1738988,
+      "plugins": [
+        "com.imbuedfart.ImbuedFartPlugin"
+      ],
+      "displayName": "Imbued Fart",
+      "description": "To see if I can debug classloader",
+      "provider": "Himon"
+    }
+  ]
